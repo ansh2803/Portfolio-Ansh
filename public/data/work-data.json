@@ -1,0 +1,16 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/aistudyplanner.jpeg",
+      "title": "AI-Study-Planner",
+       "link": "https://github.com/ansh2803/study-planner-ai",
+      "slug": "ai-study-planner"
+    },
+    {
+      "image": "/images/work/pulseplaymusic.jpeg",
+      "title": "Pulse-Play-Music-Player",
+      "link": "https://github.com/ansh2803/PulsePlay-Music-Player",
+      "slug": "pulse-play-music-player"
+    }
+  ]
+}
