@@ -30,7 +30,9 @@ const AboutMe = () => {
                   loop
                   muted
                   playsInline
+                  preload="metadata"
                   className="w-full h-full object-cover rounded-lg"
+                  poster="/images/home/banner/banner-img.png"
                 />
               </div>
 
