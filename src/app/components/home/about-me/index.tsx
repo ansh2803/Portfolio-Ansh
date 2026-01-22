@@ -23,7 +23,7 @@ const AboutMe = () => {
             </div>
 
             <div className="pt-10 xl:pt-16 flex gap-10 items-center justify-between">
-              <div className="w-[440px] h-[440px] hidden lg:flex">
+              <div className="w-[440px] h-[440px] flex">
                 <video
                   src="/video/ansh-video.mp4"
                   autoPlay
